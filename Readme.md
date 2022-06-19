@@ -2,8 +2,8 @@
 
 ## Lecture 15: IoT Flask Web (deploy to heroku)
 
-### step 1 : 複製這個github
-![first picture.](/static/pic1.png)
+### step 1 : 複製老師github的內容至自己的github上
+![first picture.](/static/step1.png)
 ### step 2 : install some package
 
 
