@@ -23,7 +23,9 @@ numpy
 * register heroku account
 * go to dashboard
 * new an app
+![](/static/step3_1.png)
 * go to resource and add-on an Heroku postgredb
+![](/static/step.png)
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
@@ -35,9 +37,12 @@ mypassword="<fill-in-Heroku-Postgredb-DB-pwd>"
 mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
+![](/static/step4_1.png)
+![](/static/step4_2.png)
+![](/static/step4_3.png)
 ### step 5: import postgredb (in db/postgre.db)
 
-
+![](/static/step5.png)
 ### step 6: setting db in app.py
 
 
