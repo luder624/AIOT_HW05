@@ -45,7 +45,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ![](/static/step5.png)
 ### step 6: setting db in app.py
 
-
+![](/static/step6.png)
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
@@ -54,7 +54,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 7: testing locally by running python app.py
-
+![](/static/step7.png)
 ### step 8: deploy to github (new private github repositoy)
 
 delete .git and git remote add origin master github.com/xxxxx
