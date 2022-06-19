@@ -16,6 +16,7 @@ sklearn
 pandas  
 numpy 
 ```
+![second picture.](/static/step2.png)
 
 ### step 3: add an heroku postgredb
 
