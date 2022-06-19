@@ -60,15 +60,20 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 delete .git and git remote add origin master github.com/xxxxx
 
 
+
 ### step 9: Heroku deploy from github
+![](/static/step8.png)
+![](/static/automatic%20deploy.png)
+![](/static/deploy%20branch.png)
 
 ### step 10: Complete
 
-Sample link 1:
-https://awinlab-aiot.herokuapp.com/
+![](/static/call%20AI.png)
+![](/static/set%20random.png)
 
-Sample link 2: 
-https://aiot0529.herokuapp.com/
+link 1:
+https://aiothomeworkfive.herokuapp.com/
+
 
 
 
